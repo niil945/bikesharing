@@ -30,7 +30,7 @@ midnight and 5am, ample time to conduct maintenance to keep bikes in service.
 usage hours peak at similar times regardless of gender with potential growth for both being between 
 10am and 4pm.
 
-![User Trips by Gender by Weekday](images/user_trips_by_gender_weekday.png)
+![User Trips by Gender by Weekday](images/user_trips_by_gender_by_weekday.png)
 
 Subscriber usage indicates primary use is commuting whereas non-subscriber usage is recreational. Potential 
 opportunities for additional targeted marketing and promotion.
