@@ -6,7 +6,7 @@ By analyzing Bike Sharing data from New York, the objective is to assess the fea
 service in the Des Moines metropolitan area. During this the data will be analyzed to assess utilization
 of bikes broken down by gender, hours, and location. 
 
-[Tableau Public Link]("https://public.tableau.com/shared/P3JM8Z5P4?:display_count=n&:origin=viz_share_link")
+[Tableau Public Link](https://public.tableau.com/shared/P3JM8Z5P4?:display_count=n&:origin=viz_share_link)
 
 ## Results
 
