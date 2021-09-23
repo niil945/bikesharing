@@ -6,6 +6,8 @@ By analyzing Bike Sharing data from New York, the objective is to assess the fea
 service in the Des Moines metropolitan area. During this the data will be analyzed to assess utilization
 of bikes broken down by gender, hours, and location. 
 
+[Tableau Public Link]("https://public.tableau.com/shared/P3JM8Z5P4?:display_count=n&:origin=viz_share_link")
+
 ## Results
 
 ![Checkout Times for Users](images/checkout_times_for_users.png)
@@ -45,6 +47,13 @@ trips. Concentrating maintenance personnel in the high usage areas should keep b
 minimizing downtime and maximizing availability.
 
 ## Summary
+
+Per the analysis the vast majority of the utilization was in urban areas with high tourist activity 
+during typical commuter hours. Subscribers utilize the service predominantly for commuting and other 
+customers primarily use the service for weekend activities. Additional analysis of Des Moines and bike 
+lanes or access would be valuable in assessing viability of the business model. Other factors that 
+could be scrutinized to assess commercial success is to compare the impact of weather on bike usage 
+and compare it to Des Moines weather to assess market similarity.
 
 ## Resources
 
