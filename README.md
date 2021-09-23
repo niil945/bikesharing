@@ -25,7 +25,7 @@ customers could result in increased opportunities.
 Usage data demonstrated optimal time for maintenance of bikes outside active usage windows, between 
 midnight and 5am, ample time to conduct maintenance to keep bikes in service.
 
-![Trips by Gender (Weekday per Hour)](images/tips_by_gender_weekday_per_hour.png)
+![Trips by Gender (Weekday per Hour)](images/trips_by_gender_weekday_per_hour.png)
 
 usage hours peak at similar times regardless of gender with potential growth for both being between 
 10am and 4pm.
